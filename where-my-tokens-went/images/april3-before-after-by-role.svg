@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="70" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="700">Read-after-edit rate by role (claude harness)</text>
+<text x="70" y="55" font-family="Arial, sans-serif" font-size="12" fill="#555">Before &lt; 2026-04-03 vs. on/after 2026-04-03. Chart includes roles with at least 25 edits on both sides.</text>
+<line x1="70" y1="415.0" x2="870" y2="415.0" stroke="#e6e6e6"/>
+<text x="60" y="419.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#666">0%</text>
+<line x1="70" y1="300.0" x2="870" y2="300.0" stroke="#e6e6e6"/>
+<text x="60" y="304.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#666">10%</text>
+<line x1="70" y1="185.0" x2="870" y2="185.0" stroke="#e6e6e6"/>
+<text x="60" y="189.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#666">20%</text>
+<line x1="70" y1="70.0" x2="870" y2="70.0" stroke="#e6e6e6"/>
+<text x="60" y="74.0" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#666">30%</text>
+<line x1="70" y1="70" x2="70" y2="415" stroke="#333"/>
+<line x1="70" y1="415" x2="870" y2="415" stroke="#333"/>
+<text x="18" y="242.5" transform="rotate(-90 18 242.5)" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333">RAE rate (% of edits followed by reread)</text>
+<rect x="172.5" y="224.1" width="28.0" height="190.9" fill="#4c78a8"/>
+<text x="186.5" y="220.1" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">16.6%</text>
+<rect x="206.1" y="195.3" width="28.0" height="219.7" fill="#f58518"/>
+<text x="220.1" y="191.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">19.1%</text>
+<text x="203.3" y="433" transform="rotate(35 203.3 433)" font-family="Arial, sans-serif" font-size="11" fill="#333">coder</text>
+<text x="203.3" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#777">320/2724 edits</text>
+<rect x="439.2" y="134.4" width="28.0" height="280.6" fill="#4c78a8"/>
+<text x="453.2" y="130.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">24.4%</text>
+<rect x="472.8" y="88.4" width="28.0" height="326.6" fill="#f58518"/>
+<text x="486.8" y="84.4" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">28.4%</text>
+<text x="470.0" y="433" transform="rotate(35 470.0 433)" font-family="Arial, sans-serif" font-size="11" fill="#333">architect</text>
+<text x="470.0" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#777">1190/67 edits</text>
+<rect x="705.9" y="187.3" width="28.0" height="227.7" fill="#4c78a8"/>
+<text x="719.9" y="183.3" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">19.8%</text>
+<rect x="739.5" y="158.5" width="28.0" height="256.5" fill="#f58518"/>
+<text x="753.5" y="154.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#333">22.3%</text>
+<text x="736.7" y="433" transform="rotate(35 736.7 433)" font-family="Arial, sans-serif" font-size="11" fill="#333">reviewer</text>
+<text x="736.7" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#777">577/103 edits</text>
+<rect x="610" y="24" width="14" height="14" fill="#4c78a8"/>
+<text x="630" y="36" font-family="Arial, sans-serif" font-size="12">Before 2026-04-03</text>
+<rect x="745" y="24" width="14" height="14" fill="#f58518"/>
+<text x="765" y="36" font-family="Arial, sans-serif" font-size="12">On/after</text>
+<text x="70" y="544" font-family="Arial, sans-serif" font-size="11" fill="#666">CSV includes roles with at least 25 total edits. Chart labels show before/after edit counts.</text>
+</svg>
